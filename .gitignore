@@ -38,3 +38,5 @@ out
 target
 release.properties
 pom.xml.*
+
+library/project.properties
