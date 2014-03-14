@@ -29,7 +29,7 @@ https://oss.sonatype.org/content/repositories/snapshots/com/loopj/android/androi
 Maven URL: https://oss.sonatype.org/content/repositories/snapshots/
 GroupId: com.loopj.android
 ArtifactId: async-http-client
-Version: 1.4.4-SNAPSHOT
+Version: 1.4.5-SNAPSHOT
 Packaging: JAR or AAR
 ```
 
@@ -49,3 +49,7 @@ Documentation, Features and Examples
 Full details and documentation can be found on the project page here:
 
 http://loopj.com/android-async-http/
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/loopj/android-async-http/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
