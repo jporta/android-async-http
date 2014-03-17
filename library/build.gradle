@@ -2,7 +2,7 @@ apply plugin: 'android-library'
 
 android {
     compileSdkVersion 19
-    buildToolsVersion '19.0.1'
+    buildToolsVersion '19.0.3'
 
     defaultConfig {
         minSdkVersion 3
@@ -36,4 +36,3 @@ android.libraryVariants.all { variant ->
 
 }
 
-apply from: '../maven_push.gradle'

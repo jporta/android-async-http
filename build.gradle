@@ -4,7 +4,7 @@ buildscript {
     }
 
     dependencies {
-        classpath 'com.android.tools.build:gradle:+'
+        classpath 'com.android.tools.build:gradle:0.9.+'
     }
 }
 
@@ -14,7 +14,6 @@ def isReleaseBuild() {
 
 allprojects {
     group = 'com.loopj.android'
-    version = '1.4.5-SNAPSHOT'
 
     repositories {
         mavenCentral()
